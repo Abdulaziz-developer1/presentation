@@ -4,10 +4,8 @@
     "vite": "^6.3.5"
   },
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview"
-},
+    "dev": "vite"
+  },
   "name": "presentation",
   "version": "1.0.0",
   "main": "main.js",
